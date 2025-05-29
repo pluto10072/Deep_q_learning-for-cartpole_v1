@@ -1,4 +1,4 @@
-这是一个基于深度q-learning的cartpole_v1参考解决方案，有很多不足之处
+这是一个基于深度double-q-learning的cartpole_v1参考解决方案，有很多不足之处
 
 方案效果：训练了200个episode最高reward达到459，取该策略网络参数测试10个episode，10次测试平均reward: 204.4，最小Reward不低于180.满足解决条件
 
